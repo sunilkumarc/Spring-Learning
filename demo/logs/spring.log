@@ -1,0 +1,26 @@
+2017-03-01 15:35:59.340  INFO 6385 --- [main] com.example.main.DemoApplication         : Starting DemoApplication on bng1dubdev01 with PID 6385 (/home/sunil/git/Spring-Learning/demo/target/classes started by sunil in /home/sunil/git/Spring-Learning/demo)
+2017-03-01 15:35:59.347  INFO 6385 --- [main] com.example.main.DemoApplication         : No active profile set, falling back to default profiles: default
+2017-03-01 15:36:00.647  INFO 6385 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-03-01 15:36:00.648  INFO 6385 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-03-01 15:36:00.745  INFO 6385 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-03-01 15:36:01.623  INFO 6385 --- [main] com.example.main.DemoApplication         : Started DemoApplication in 2.631 seconds (JVM running for 5.748)
+2017-03-01 15:36:07.721  INFO 6385 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-03-01 15:36:07.749  INFO 6385 --- [http-nio-8080-exec-1] com.example.main.HomeController          : INFO : Inside /
+2017-03-01 15:36:07.749  WARN 6385 --- [http-nio-8080-exec-1] com.example.main.HomeController          : WARN : Inside /
+2017-03-01 15:38:14.790  INFO 6662 --- [main] com.example.main.DemoApplication         : Starting DemoApplication on bng1dubdev01 with PID 6662 (/home/sunil/git/Spring-Learning/demo/target/classes started by sunil in /home/sunil/git/Spring-Learning/demo)
+2017-03-01 15:38:14.801  INFO 6662 --- [main] com.example.main.DemoApplication         : No active profile set, falling back to default profiles: default
+2017-03-01 15:38:16.877  INFO 6662 --- [main] com.example.main.DemoApplication         : Started DemoApplication in 2.365 seconds (JVM running for 5.296)
+2017-03-01 15:38:28.616  INFO 6662 --- [http-nio-8080-exec-1] com.example.main.HomeController          : INFO : Inside /
+2017-03-01 15:38:28.617  WARN 6662 --- [http-nio-8080-exec-1] com.example.main.HomeController          : WARN : Inside /
+2017-03-01 15:38:45.408  INFO 6763 --- [main] com.example.main.DemoApplication         : Starting DemoApplication on bng1dubdev01 with PID 6763 (/home/sunil/git/Spring-Learning/demo/target/classes started by sunil in /home/sunil/git/Spring-Learning/demo)
+2017-03-01 15:38:45.414  INFO 6763 --- [main] com.example.main.DemoApplication         : No active profile set, falling back to default profiles: default
+2017-03-01 15:38:46.694  INFO 6763 --- [main] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-03-01 15:38:46.694  INFO 6763 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-03-01 15:38:46.760  INFO 6763 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-03-01 15:38:47.449  INFO 6763 --- [main] com.example.main.DemoApplication         : Started DemoApplication in 2.334 seconds (JVM running for 5.394)
+2017-03-01 15:39:37.416  INFO 6928 --- [main] com.example.main.DemoApplicationTests    : Starting DemoApplicationTests on bng1dubdev01 with PID 6928 (started by sunil in /home/sunil/git/Spring-Learning/demo)
+2017-03-01 15:39:37.417  INFO 6928 --- [main] com.example.main.DemoApplicationTests    : No active profile set, falling back to default profiles: default
+2017-03-01 15:39:39.008  INFO 6928 --- [main] com.example.main.DemoApplicationTests    : Started DemoApplicationTests in 1.827 seconds (JVM running for 2.549)
+2017-03-01 15:39:49.975  INFO 6968 --- [main] com.example.main.DemoApplication         : Starting DemoApplication on bng1dubdev01 with PID 6968 (/home/sunil/git/Spring-Learning/demo/target/classes started by sunil in /home/sunil/git/Spring-Learning/demo)
+2017-03-01 15:39:49.983  INFO 6968 --- [main] com.example.main.DemoApplication         : No active profile set, falling back to default profiles: default
+2017-03-01 15:39:52.103  INFO 6968 --- [main] com.example.main.DemoApplication         : Started DemoApplication in 2.408 seconds (JVM running for 5.475)

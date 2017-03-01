@@ -26,6 +26,7 @@ public class HomeController {
 	public String home() {
 		log.info("INFO : Inside /");
 		log.debug("DEBUG : Inside /");
+		log.warn("WARN : Inside /");
 		return "Welcome! Success Ahead!";
 	}
 	
